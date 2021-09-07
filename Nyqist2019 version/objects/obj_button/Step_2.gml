@@ -1,0 +1,2 @@
+if(!hold)
+	pressed = false;
